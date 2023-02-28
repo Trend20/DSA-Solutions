@@ -9,3 +9,15 @@ insert = O(1)
 delete = 0(n)
 search = O(n)
  */
+
+import LinkedListNode from "./LinkedListNode";
+import Comparator from "../../utils/Comparator";
+
+export default class LinkedList {
+  constructor() {
+    this.head = null;
+    this.tail = null;
+  }
+
+  // OPERATIONS
+}
